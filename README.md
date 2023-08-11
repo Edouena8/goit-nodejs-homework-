@@ -3,4 +3,4 @@
 
 node index.js --action="list"
 
-(https://monosnap.com/file/rLmjXquXTNsJByL0kXUIzfnKbWpKLP)
+![Screenshot of getting list of contacts.](https://monosnap.com/file/rLmjXquXTNsJByL0kXUIzfnKbWpKLP)
